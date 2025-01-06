@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "a42176d2",
+   "id": "d8e33554",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
     "execution": {
-     "iopub.execute_input": "2025-01-03T17:02:14.979763Z",
-     "iopub.status.busy": "2025-01-03T17:02:14.979348Z",
-     "iopub.status.idle": "2025-01-03T17:02:17.182778Z",
-     "shell.execute_reply": "2025-01-03T17:02:17.181201Z"
+     "iopub.execute_input": "2025-01-06T03:12:20.461351Z",
+     "iopub.status.busy": "2025-01-06T03:12:20.460983Z",
+     "iopub.status.idle": "2025-01-06T03:12:22.137138Z",
+     "shell.execute_reply": "2025-01-06T03:12:22.136078Z"
     },
     "papermill": {
-     "duration": 2.210635,
-     "end_time": "2025-01-03T17:02:17.185158",
+     "duration": 1.682284,
+     "end_time": "2025-01-06T03:12:22.138765",
      "exception": false,
-     "start_time": "2025-01-03T17:02:14.974523",
+     "start_time": "2025-01-06T03:12:20.456481",
      "status": "completed"
     },
     "tags": []
@@ -58,19 +58,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "cb49e8d9",
+   "id": "eab6dff6",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-03T17:02:17.193353Z",
-     "iopub.status.busy": "2025-01-03T17:02:17.192781Z",
-     "iopub.status.idle": "2025-01-03T17:02:22.389923Z",
-     "shell.execute_reply": "2025-01-03T17:02:22.388423Z"
+     "iopub.execute_input": "2025-01-06T03:12:22.145904Z",
+     "iopub.status.busy": "2025-01-06T03:12:22.145541Z",
+     "iopub.status.idle": "2025-01-06T03:12:26.775700Z",
+     "shell.execute_reply": "2025-01-06T03:12:26.774632Z"
     },
     "papermill": {
-     "duration": 5.203129,
-     "end_time": "2025-01-03T17:02:22.391828",
+     "duration": 4.635056,
+     "end_time": "2025-01-06T03:12:26.777233",
      "exception": false,
-     "start_time": "2025-01-03T17:02:17.188699",
+     "start_time": "2025-01-06T03:12:22.142177",
      "status": "completed"
     },
     "tags": []
@@ -261,19 +261,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "48638b16",
+   "id": "6d1894b8",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-03T17:02:22.400771Z",
-     "iopub.status.busy": "2025-01-03T17:02:22.400258Z",
-     "iopub.status.idle": "2025-01-03T17:02:23.838019Z",
-     "shell.execute_reply": "2025-01-03T17:02:23.836535Z"
+     "iopub.execute_input": "2025-01-06T03:12:26.784781Z",
+     "iopub.status.busy": "2025-01-06T03:12:26.784509Z",
+     "iopub.status.idle": "2025-01-06T03:12:28.214920Z",
+     "shell.execute_reply": "2025-01-06T03:12:28.213748Z"
     },
     "papermill": {
-     "duration": 1.444248,
-     "end_time": "2025-01-03T17:02:23.839779",
+     "duration": 1.435867,
+     "end_time": "2025-01-06T03:12:28.216455",
      "exception": false,
-     "start_time": "2025-01-03T17:02:22.395531",
+     "start_time": "2025-01-06T03:12:26.780588",
      "status": "completed"
     },
     "tags": []
@@ -351,19 +351,289 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "1b964b43",
+   "id": "684dae8f",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-03T17:02:23.849326Z",
-     "iopub.status.busy": "2025-01-03T17:02:23.848956Z",
-     "iopub.status.idle": "2025-01-03T17:02:29.310312Z",
-     "shell.execute_reply": "2025-01-03T17:02:29.309160Z"
+     "iopub.execute_input": "2025-01-06T03:12:28.224635Z",
+     "iopub.status.busy": "2025-01-06T03:12:28.224336Z",
+     "iopub.status.idle": "2025-01-06T03:12:28.807508Z",
+     "shell.execute_reply": "2025-01-06T03:12:28.806571Z"
     },
     "papermill": {
-     "duration": 5.468962,
-     "end_time": "2025-01-03T17:02:29.312635",
+     "duration": 0.588858,
+     "end_time": "2025-01-06T03:12:28.809081",
      "exception": false,
-     "start_time": "2025-01-03T17:02:23.843673",
+     "start_time": "2025-01-06T03:12:28.220223",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<div>\n",
+       "<style scoped>\n",
+       "    .dataframe tbody tr th:only-of-type {\n",
+       "        vertical-align: middle;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe tbody tr th {\n",
+       "        vertical-align: top;\n",
+       "    }\n",
+       "\n",
+       "    .dataframe thead th {\n",
+       "        text-align: right;\n",
+       "    }\n",
+       "</style>\n",
+       "<table border=\"1\" class=\"dataframe\">\n",
+       "  <thead>\n",
+       "    <tr style=\"text-align: right;\">\n",
+       "      <th></th>\n",
+       "      <th>Year</th>\n",
+       "      <th>Prevalence_Rate</th>\n",
+       "      <th>Incidence_Rate</th>\n",
+       "      <th>Mortality_Rate</th>\n",
+       "      <th>Population_Affected</th>\n",
+       "      <th>Healthcare_Access</th>\n",
+       "      <th>Doctors_per_1000</th>\n",
+       "      <th>Hospital_Beds_per_1000</th>\n",
+       "      <th>Average_Treatment_Cost</th>\n",
+       "      <th>Recovery_Rate</th>\n",
+       "      <th>DALYs</th>\n",
+       "      <th>Improvement_in_5_Years</th>\n",
+       "      <th>Per_Capita_Income</th>\n",
+       "      <th>Education_Index</th>\n",
+       "      <th>Urbanization_Rate</th>\n",
+       "    </tr>\n",
+       "  </thead>\n",
+       "  <tbody>\n",
+       "    <tr>\n",
+       "      <th>count</th>\n",
+       "      <td>1000000.000000</td>\n",
+       "      <td>1000000.000000</td>\n",
+       "      <td>1000000.000000</td>\n",
+       "      <td>1000000.000000</td>\n",
+       "      <td>1000000.000000</td>\n",
+       "      <td>1000000.000000</td>\n",
+       "      <td>1000000.000000</td>\n",
+       "      <td>1000000.000000</td>\n",
+       "      <td>1000000.000000</td>\n",
+       "      <td>1000000.000000</td>\n",
+       "      <td>1000000.000000</td>\n",
+       "      <td>1000000.000000</td>\n",
+       "      <td>1000000.000000</td>\n",
+       "      <td>1000000.000000</td>\n",
+       "      <td>1000000.000000</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>mean</th>\n",
+       "      <td>2011.996999</td>\n",
+       "      <td>10.047992</td>\n",
+       "      <td>7.555005</td>\n",
+       "      <td>5.049919</td>\n",
+       "      <td>500735.427363</td>\n",
+       "      <td>74.987835</td>\n",
+       "      <td>2.747929</td>\n",
+       "      <td>5.245931</td>\n",
+       "      <td>25010.313665</td>\n",
+       "      <td>74.496934</td>\n",
+       "      <td>2499.144809</td>\n",
+       "      <td>5.002593</td>\n",
+       "      <td>50311.099835</td>\n",
+       "      <td>0.650069</td>\n",
+       "      <td>54.985212</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>std</th>\n",
+       "      <td>7.217287</td>\n",
+       "      <td>5.740189</td>\n",
+       "      <td>4.298947</td>\n",
+       "      <td>2.859427</td>\n",
+       "      <td>288660.116648</td>\n",
+       "      <td>14.436345</td>\n",
+       "      <td>1.299067</td>\n",
+       "      <td>2.742865</td>\n",
+       "      <td>14402.279227</td>\n",
+       "      <td>14.155168</td>\n",
+       "      <td>1443.923798</td>\n",
+       "      <td>2.888298</td>\n",
+       "      <td>28726.959359</td>\n",
+       "      <td>0.144472</td>\n",
+       "      <td>20.214042</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>min</th>\n",
+       "      <td>2000.000000</td>\n",
+       "      <td>0.100000</td>\n",
+       "      <td>0.100000</td>\n",
+       "      <td>0.100000</td>\n",
+       "      <td>1000.000000</td>\n",
+       "      <td>50.000000</td>\n",
+       "      <td>0.500000</td>\n",
+       "      <td>0.500000</td>\n",
+       "      <td>100.000000</td>\n",
+       "      <td>50.000000</td>\n",
+       "      <td>1.000000</td>\n",
+       "      <td>0.000000</td>\n",
+       "      <td>500.000000</td>\n",
+       "      <td>0.400000</td>\n",
+       "      <td>20.000000</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>25%</th>\n",
+       "      <td>2006.000000</td>\n",
+       "      <td>5.090000</td>\n",
+       "      <td>3.840000</td>\n",
+       "      <td>2.580000</td>\n",
+       "      <td>250491.250000</td>\n",
+       "      <td>62.470000</td>\n",
+       "      <td>1.620000</td>\n",
+       "      <td>2.870000</td>\n",
+       "      <td>12538.000000</td>\n",
+       "      <td>62.220000</td>\n",
+       "      <td>1245.000000</td>\n",
+       "      <td>2.500000</td>\n",
+       "      <td>25457.000000</td>\n",
+       "      <td>0.530000</td>\n",
+       "      <td>37.470000</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>50%</th>\n",
+       "      <td>2012.000000</td>\n",
+       "      <td>10.040000</td>\n",
+       "      <td>7.550000</td>\n",
+       "      <td>5.050000</td>\n",
+       "      <td>501041.000000</td>\n",
+       "      <td>75.000000</td>\n",
+       "      <td>2.750000</td>\n",
+       "      <td>5.240000</td>\n",
+       "      <td>24980.000000</td>\n",
+       "      <td>74.470000</td>\n",
+       "      <td>2499.000000</td>\n",
+       "      <td>5.000000</td>\n",
+       "      <td>50372.000000</td>\n",
+       "      <td>0.650000</td>\n",
+       "      <td>54.980000</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>75%</th>\n",
+       "      <td>2018.000000</td>\n",
+       "      <td>15.010000</td>\n",
+       "      <td>11.280000</td>\n",
+       "      <td>7.530000</td>\n",
+       "      <td>750782.000000</td>\n",
+       "      <td>87.490000</td>\n",
+       "      <td>3.870000</td>\n",
+       "      <td>7.620000</td>\n",
+       "      <td>37493.000000</td>\n",
+       "      <td>86.780000</td>\n",
+       "      <td>3750.000000</td>\n",
+       "      <td>7.510000</td>\n",
+       "      <td>75195.000000</td>\n",
+       "      <td>0.780000</td>\n",
+       "      <td>72.510000</td>\n",
+       "    </tr>\n",
+       "    <tr>\n",
+       "      <th>max</th>\n",
+       "      <td>2024.000000</td>\n",
+       "      <td>20.000000</td>\n",
+       "      <td>15.000000</td>\n",
+       "      <td>10.000000</td>\n",
+       "      <td>1000000.000000</td>\n",
+       "      <td>100.000000</td>\n",
+       "      <td>5.000000</td>\n",
+       "      <td>10.000000</td>\n",
+       "      <td>50000.000000</td>\n",
+       "      <td>99.000000</td>\n",
+       "      <td>5000.000000</td>\n",
+       "      <td>10.000000</td>\n",
+       "      <td>100000.000000</td>\n",
+       "      <td>0.900000</td>\n",
+       "      <td>90.000000</td>\n",
+       "    </tr>\n",
+       "  </tbody>\n",
+       "</table>\n",
+       "</div>"
+      ],
+      "text/plain": [
+       "                 Year  Prevalence_Rate  Incidence_Rate  Mortality_Rate  \\\n",
+       "count  1000000.000000   1000000.000000  1000000.000000  1000000.000000   \n",
+       "mean      2011.996999        10.047992        7.555005        5.049919   \n",
+       "std          7.217287         5.740189        4.298947        2.859427   \n",
+       "min       2000.000000         0.100000        0.100000        0.100000   \n",
+       "25%       2006.000000         5.090000        3.840000        2.580000   \n",
+       "50%       2012.000000        10.040000        7.550000        5.050000   \n",
+       "75%       2018.000000        15.010000       11.280000        7.530000   \n",
+       "max       2024.000000        20.000000       15.000000       10.000000   \n",
+       "\n",
+       "       Population_Affected  Healthcare_Access  Doctors_per_1000  \\\n",
+       "count       1000000.000000     1000000.000000    1000000.000000   \n",
+       "mean         500735.427363          74.987835          2.747929   \n",
+       "std          288660.116648          14.436345          1.299067   \n",
+       "min            1000.000000          50.000000          0.500000   \n",
+       "25%          250491.250000          62.470000          1.620000   \n",
+       "50%          501041.000000          75.000000          2.750000   \n",
+       "75%          750782.000000          87.490000          3.870000   \n",
+       "max         1000000.000000         100.000000          5.000000   \n",
+       "\n",
+       "       Hospital_Beds_per_1000  Average_Treatment_Cost   Recovery_Rate  \\\n",
+       "count          1000000.000000          1000000.000000  1000000.000000   \n",
+       "mean                 5.245931            25010.313665       74.496934   \n",
+       "std                  2.742865            14402.279227       14.155168   \n",
+       "min                  0.500000              100.000000       50.000000   \n",
+       "25%                  2.870000            12538.000000       62.220000   \n",
+       "50%                  5.240000            24980.000000       74.470000   \n",
+       "75%                  7.620000            37493.000000       86.780000   \n",
+       "max                 10.000000            50000.000000       99.000000   \n",
+       "\n",
+       "                DALYs  Improvement_in_5_Years  Per_Capita_Income  \\\n",
+       "count  1000000.000000          1000000.000000     1000000.000000   \n",
+       "mean      2499.144809                5.002593       50311.099835   \n",
+       "std       1443.923798                2.888298       28726.959359   \n",
+       "min          1.000000                0.000000         500.000000   \n",
+       "25%       1245.000000                2.500000       25457.000000   \n",
+       "50%       2499.000000                5.000000       50372.000000   \n",
+       "75%       3750.000000                7.510000       75195.000000   \n",
+       "max       5000.000000               10.000000      100000.000000   \n",
+       "\n",
+       "       Education_Index  Urbanization_Rate  \n",
+       "count   1000000.000000     1000000.000000  \n",
+       "mean          0.650069          54.985212  \n",
+       "std           0.144472          20.214042  \n",
+       "min           0.400000          20.000000  \n",
+       "25%           0.530000          37.470000  \n",
+       "50%           0.650000          54.980000  \n",
+       "75%           0.780000          72.510000  \n",
+       "max           0.900000          90.000000  "
+      ]
+     },
+     "execution_count": 4,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "#descriptive statistics\n",
+    "health_data.describe()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "85516a73",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-01-06T03:12:28.817065Z",
+     "iopub.status.busy": "2025-01-06T03:12:28.816775Z",
+     "iopub.status.idle": "2025-01-06T03:12:33.579403Z",
+     "shell.execute_reply": "2025-01-06T03:12:33.578509Z"
+    },
+    "papermill": {
+     "duration": 4.769351,
+     "end_time": "2025-01-06T03:12:33.582288",
+     "exception": false,
+     "start_time": "2025-01-06T03:12:28.812937",
      "status": "completed"
     },
     "tags": []
@@ -423,7 +693,7 @@
        "      dtype=object)"
       ]
      },
-     "execution_count": 4,
+     "execution_count": 5,
      "metadata": {},
      "output_type": "execute_result"
     },
@@ -449,20 +719,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 5,
-   "id": "988be895",
+   "execution_count": 6,
+   "id": "7869060d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-03T17:02:29.326943Z",
-     "iopub.status.busy": "2025-01-03T17:02:29.326513Z",
-     "iopub.status.idle": "2025-01-03T17:02:29.395456Z",
-     "shell.execute_reply": "2025-01-03T17:02:29.394201Z"
+     "iopub.execute_input": "2025-01-06T03:12:33.595777Z",
+     "iopub.status.busy": "2025-01-06T03:12:33.595491Z",
+     "iopub.status.idle": "2025-01-06T03:12:33.661303Z",
+     "shell.execute_reply": "2025-01-06T03:12:33.660159Z"
     },
     "papermill": {
-     "duration": 0.078247,
-     "end_time": "2025-01-03T17:02:29.397370",
+     "duration": 0.074491,
+     "end_time": "2025-01-06T03:12:33.662901",
      "exception": false,
-     "start_time": "2025-01-03T17:02:29.319123",
+     "start_time": "2025-01-06T03:12:33.588410",
      "status": "completed"
     },
     "tags": []
@@ -496,20 +766,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 6,
-   "id": "5e52ff13",
+   "execution_count": 7,
+   "id": "91be73c4",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-03T17:02:29.411767Z",
-     "iopub.status.busy": "2025-01-03T17:02:29.411352Z",
-     "iopub.status.idle": "2025-01-03T17:02:31.310339Z",
-     "shell.execute_reply": "2025-01-03T17:02:31.309157Z"
+     "iopub.execute_input": "2025-01-06T03:12:33.675322Z",
+     "iopub.status.busy": "2025-01-06T03:12:33.675034Z",
+     "iopub.status.idle": "2025-01-06T03:12:35.330323Z",
+     "shell.execute_reply": "2025-01-06T03:12:35.329315Z"
     },
     "papermill": {
-     "duration": 1.910222,
-     "end_time": "2025-01-03T17:02:31.314359",
+     "duration": 1.666023,
+     "end_time": "2025-01-06T03:12:35.334561",
      "exception": false,
-     "start_time": "2025-01-03T17:02:29.404137",
+     "start_time": "2025-01-06T03:12:33.668538",
      "status": "completed"
     },
     "tags": []
@@ -534,20 +804,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 7,
-   "id": "5eb205c6",
+   "execution_count": 8,
+   "id": "1e2a34a2",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-03T17:02:31.335676Z",
-     "iopub.status.busy": "2025-01-03T17:02:31.335283Z",
-     "iopub.status.idle": "2025-01-03T17:02:31.974294Z",
-     "shell.execute_reply": "2025-01-03T17:02:31.973070Z"
+     "iopub.execute_input": "2025-01-06T03:12:35.354593Z",
+     "iopub.status.busy": "2025-01-06T03:12:35.354321Z",
+     "iopub.status.idle": "2025-01-06T03:12:35.831831Z",
+     "shell.execute_reply": "2025-01-06T03:12:35.830732Z"
     },
     "papermill": {
-     "duration": 0.652115,
-     "end_time": "2025-01-03T17:02:31.976593",
+     "duration": 0.489452,
+     "end_time": "2025-01-06T03:12:35.833505",
      "exception": false,
-     "start_time": "2025-01-03T17:02:31.324478",
+     "start_time": "2025-01-06T03:12:35.344053",
      "status": "completed"
     },
     "tags": []
@@ -587,7 +857,7 @@
        "Text(0, 0.5, 'Prevalence Rate (%)')"
       ]
      },
-     "execution_count": 7,
+     "execution_count": 8,
      "metadata": {},
      "output_type": "execute_result"
     },
@@ -632,20 +902,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 8,
-   "id": "741f913e",
+   "execution_count": 9,
+   "id": "edcb3ac9",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-03T17:02:32.000427Z",
-     "iopub.status.busy": "2025-01-03T17:02:32.000024Z",
-     "iopub.status.idle": "2025-01-03T17:02:32.004497Z",
-     "shell.execute_reply": "2025-01-03T17:02:32.003099Z"
+     "iopub.execute_input": "2025-01-06T03:12:35.855336Z",
+     "iopub.status.busy": "2025-01-06T03:12:35.855025Z",
+     "iopub.status.idle": "2025-01-06T03:12:35.858205Z",
+     "shell.execute_reply": "2025-01-06T03:12:35.857475Z"
     },
     "papermill": {
-     "duration": 0.018983,
-     "end_time": "2025-01-03T17:02:32.006544",
+     "duration": 0.015366,
+     "end_time": "2025-01-06T03:12:35.859758",
      "exception": false,
-     "start_time": "2025-01-03T17:02:31.987561",
+     "start_time": "2025-01-06T03:12:35.844392",
      "status": "completed"
     },
     "tags": []
@@ -658,20 +928,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 9,
-   "id": "fb0b6167",
+   "execution_count": 10,
+   "id": "3f2a7023",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-03T17:02:32.029858Z",
-     "iopub.status.busy": "2025-01-03T17:02:32.029430Z",
-     "iopub.status.idle": "2025-01-03T17:02:32.033532Z",
-     "shell.execute_reply": "2025-01-03T17:02:32.032374Z"
+     "iopub.execute_input": "2025-01-06T03:12:35.880108Z",
+     "iopub.status.busy": "2025-01-06T03:12:35.879834Z",
+     "iopub.status.idle": "2025-01-06T03:12:35.883011Z",
+     "shell.execute_reply": "2025-01-06T03:12:35.882297Z"
     },
     "papermill": {
-     "duration": 0.017855,
-     "end_time": "2025-01-03T17:02:32.035356",
+     "duration": 0.014941,
+     "end_time": "2025-01-06T03:12:35.884359",
      "exception": false,
-     "start_time": "2025-01-03T17:02:32.017501",
+     "start_time": "2025-01-06T03:12:35.869418",
      "status": "completed"
     },
     "tags": []
@@ -684,20 +954,20 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 10,
-   "id": "c46ecae5",
+   "execution_count": 11,
+   "id": "86ae018f",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-03T17:02:32.058489Z",
-     "iopub.status.busy": "2025-01-03T17:02:32.058061Z",
-     "iopub.status.idle": "2025-01-03T17:02:32.062455Z",
-     "shell.execute_reply": "2025-01-03T17:02:32.061110Z"
+     "iopub.execute_input": "2025-01-06T03:12:35.904845Z",
+     "iopub.status.busy": "2025-01-06T03:12:35.904607Z",
+     "iopub.status.idle": "2025-01-06T03:12:35.907728Z",
+     "shell.execute_reply": "2025-01-06T03:12:35.907034Z"
     },
     "papermill": {
-     "duration": 0.018263,
-     "end_time": "2025-01-03T17:02:32.064563",
+     "duration": 0.015077,
+     "end_time": "2025-01-06T03:12:35.909081",
      "exception": false,
-     "start_time": "2025-01-03T17:02:32.046300",
+     "start_time": "2025-01-06T03:12:35.894004",
      "status": "completed"
     },
     "tags": []
@@ -743,14 +1013,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 20.371538,
-   "end_time": "2025-01-03T17:02:32.998540",
+   "duration": 18.128224,
+   "end_time": "2025-01-06T03:12:36.637983",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2025-01-03T17:02:12.627002",
+   "start_time": "2025-01-06T03:12:18.509759",
    "version": "2.6.0"
   }
  },
